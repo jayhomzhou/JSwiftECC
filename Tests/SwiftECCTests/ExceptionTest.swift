@@ -7,7 +7,7 @@
 
 import XCTest
 import ASN1
-import BigInt
+import JBigInt
 
 class ExceptionTest: XCTestCase {
 

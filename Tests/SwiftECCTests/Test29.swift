@@ -6,7 +6,7 @@
 //
 
 import XCTest
-import BigInt
+import JBigInt
 
 // Test a home made prime characteristic domain - Guide to Elliptic Curve Cryptography - example 3.5
 

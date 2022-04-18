@@ -6,7 +6,7 @@
 //
 
 import XCTest
-import BigInt
+import JBigInt
 
 class SignatureDetTest: XCTestCase {
     

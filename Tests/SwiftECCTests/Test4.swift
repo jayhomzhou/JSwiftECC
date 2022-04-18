@@ -6,7 +6,7 @@
 //
 
 import XCTest
-import BigInt
+import JBigInt
 
 // Test a home made characteristic 2 domain - Guide to Elliptic Curve Cryptography - example 3.6
 

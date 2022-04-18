@@ -6,7 +6,7 @@
 //
 
 import XCTest
-import BigInt
+import JBigInt
 
 // Test point encoding and decoding
 

@@ -6,7 +6,7 @@
 //
 
 import ASN1
-import BigInt
+import JBigInt
 
 class BP320r1: DomainP {
     
