@@ -183,7 +183,7 @@ class Domain2 {
             return ASN1Sequence()
                 .add(ASN1Integer(BInt.ONE))
                 .add(ASN1Sequence()
-                    .add(Domain.OID_2)
+                    .add(Domain.OID_2!)
                     .add(seq1))
                 .add(ASN1Sequence()
                     .add(ASN1OctetString(BInt(self.a.bv).asMagnitudeBytes()))

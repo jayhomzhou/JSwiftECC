@@ -22,8 +22,8 @@ let package = Package(
         .target(
             name: "SwiftECC",
             dependencies: ["ASN1", "JBigInt"]),
-        .testTarget(
-            name: "SwiftECCTests",
-            dependencies: ["SwiftECC"]),
+//        .testTarget(
+//            name: "SwiftECCTests",
+//            dependencies: ["SwiftECC"]),
     ]
 )

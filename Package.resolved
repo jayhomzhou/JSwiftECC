@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/jayhomzhou/JASN1",
         "state": {
           "branch": null,
-          "revision": "f10454ab08fb556a232e4bc2abc83fb24008e262",
-          "version": "1.0.0"
+          "revision": "77f418be5272b103737d04c50d27cbe219949b7b",
+          "version": "1.0.2"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/jayhomzhou/JBigInt",
         "state": {
           "branch": null,
-          "revision": "e8b1f5587ec124a9159b85c3c0d8850293d55083",
-          "version": "1.0.0"
+          "revision": "fc77987b6bf74af96abdcc545fa70dbf841deb8a",
+          "version": "1.0.1"
         }
       }
     ]

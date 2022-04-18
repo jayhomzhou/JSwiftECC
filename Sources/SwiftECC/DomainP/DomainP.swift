@@ -203,7 +203,7 @@ class DomainP {
             return ASN1Sequence()
                 .add(ASN1Integer(BInt.ONE))
             .   add(ASN1Sequence()
-                    .add(Domain.OID_P)
+                .add(Domain.OID_P!)
                     .add(ASN1Integer(self.p)))
                 .add(ASN1Sequence()
                     .add(ASN1OctetString(self.a.asMagnitudeBytes()))
