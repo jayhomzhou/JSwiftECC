@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ASN1",
+        "repositoryURL": "https://github.com/jayhomzhou/JASN1",
+        "state": {
+          "branch": null,
+          "revision": "f10454ab08fb556a232e4bc2abc83fb24008e262",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "JBigInt",
+        "repositoryURL": "https://github.com/jayhomzhou/JBigInt",
+        "state": {
+          "branch": null,
+          "revision": "e8b1f5587ec124a9159b85c3c0d8850293d55083",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
